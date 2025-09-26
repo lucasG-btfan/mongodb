@@ -8,7 +8,7 @@ async function conectar() {
     return client.db(dbName);
 }
 
-async function listarProductosMayorAlPromedio() {
+async function listarProductosMayorAlPromedio() {//es tambien el ejercicio numero 5
     const db = await conectar();
     const productos = db.collection("productos");
     const resultadoPromedio = await productos.aggregate([
@@ -50,7 +50,7 @@ async function ordenarPrecioDesc() {
 }
 
 (async () => {
-    await listarProductosMayorAlPromedio();
+    await listarProductosMayorAlPromedio();//tambien es el ejercicio numero 5
     console.log("\n" + "=".repeat(50));
     await agruparPorCategoria();
     console.log("\n" + "=".repeat(50));
