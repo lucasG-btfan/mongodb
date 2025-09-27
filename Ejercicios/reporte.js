@@ -2,6 +2,12 @@ const { MongoClient } = require("mongodb");
 const url = "mongodb://localhost:27017";
 const dbName = "ecommerce"
 
+async function conectar() {
+    const client = new MongoClient(url);
+    await client.connect();
+    return client.db(dbName);
+}
+
 async function listarProductosMayorAlPromedio() {
     const db = await conectar();
     const productos = db.collection("productos");
