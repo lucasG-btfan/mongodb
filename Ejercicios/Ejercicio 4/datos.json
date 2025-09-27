@@ -1,0 +1,94 @@
+[
+    {
+        "nombre":"Sillon Reclinable Relax",
+        "categoria":"Muebles",
+        "precio":654200,
+        "stock":4,
+        "especificaciones":{
+            "renclinable": true,
+            "alto":"110 cm",
+            "ancho":"95 cm",
+            "profundidadOLargo":"95 cm"
+        }
+    },
+    {
+        "nombre":"Silla de Oficina Masajeador",
+        "categoria":"Muebles",
+        "precio":168600,
+        "stock":8,
+        "especificaciones":{
+            "renclinable": true,
+            "alto":"120 cm",
+            "ancho":"63 cm",
+            "profundidadOLargo":"68 cm"
+        }   
+    },
+    {
+        "nombre":"Bicicleta Infantil ",
+        "categoria":"Ciclismo",
+        "precio":76900,
+        "stock":2,
+        "especificaciones":{
+            "rodado": 12,
+            "paraAdultos": false,
+            "tipoBicicleta": "Urbana",
+            "pesoMax": "21 kg"
+        }
+    },
+    {
+        "nombre":"Bicicleta Modelo Urbana de Paseo Volkswagen",
+        "categoria":"Ciclismo",
+        "precio":916900,
+        "stock":3,
+        "especificaciones":{
+            "rodado": 28,
+            "paraAdultos": true,
+            "tipoBicicleta": "Urbana",
+            "pesoMax": "118 kg"
+        }
+    },
+    {
+        "nombre":"Estación de Soldado con display Digital",
+        "categoria":"Herramientas",
+        "precio":125000,
+        "stock":6,
+        "especificaciones":{
+            "inalámbrico": false, 
+            "marca":"Yihua", 
+            "modelo":"878d"
+        }
+    },
+    {
+        "nombre":"Amoladora Angular Inalambrica ",
+        "categoria":"Herramientas",
+        "precio":180100,
+        "stock":5,
+        "especificaciones":{
+            "inalámbrico": true, 
+            "marca":"Salkor", 
+            "modelo":"BAAP11500"
+        }
+    },
+    {
+        "nombre":"Konig kids",
+        "categoria":"Bebes&Niños",
+        "precio":60000,
+        "stock":7,
+        "especificaciones":{
+            "paraBebes": true,
+            "marca":"Fravega",
+            "modelo":"Rosa"
+        }
+    },
+    {
+        "nombre":"Auto a Bateria F1",
+        "categoria":"Bebes&Niños",
+        "precio":490000,
+        "stock":9,
+        "especificaciones":{
+            "paraBebes": false,
+            "marca":"Love",
+            "modelo":"3080"
+        }
+    }
+]
