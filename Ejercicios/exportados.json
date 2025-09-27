@@ -1,0 +1,422 @@
+[
+  {
+    "_id": "68d5ef347371685a175d674d",
+    "nombre": "Sillon cama Futón",
+    "categoria": "Muebles",
+    "precio": 264600,
+    "stock": 3,
+    "especificaciones": {
+      "renclinable": false,
+      "alto": "76 cm",
+      "ancho": "81 cm",
+      "profundidadOLargo": "176 cm"
+    }
+  },
+  {
+    "_id": "68d5ef347371685a175d674e",
+    "nombre": "Sillon Poltrona Relax",
+    "categoria": "Muebles",
+    "precio": 156600,
+    "stock": 5,
+    "especificaciones": {
+      "renclinable": true,
+      "alto": "110 cm",
+      "ancho": "89 cm",
+      "profundidadOLargo": "75 cm"
+    }
+  },
+  {
+    "_id": "68d5ef347371685a175d674f",
+    "nombre": "Silla Gamer",
+    "categoria": "Muebles",
+    "precio": 135000,
+    "stock": 9,
+    "especificaciones": {
+      "renclinable": false,
+      "alto": "124 cm",
+      "ancho": "50 cm",
+      "profundidadOLargo": "50 cm"
+    }
+  },
+  {
+    "_id": "68d5ef347371685a175d6750",
+    "nombre": "Mesa de comedor con 6 sillas",
+    "categoria": "Muebles",
+    "precio": 498600,
+    "stock": 2,
+    "especificaciones": {
+      "renclinable": false,
+      "alto": "79 cm",
+      "ancho": "160 cm",
+      "profundidadOLargo": "90 cm"
+    }
+  },
+  {
+    "_id": "68d5ef347371685a175d6751",
+    "nombre": "Camas de Dos Plazas",
+    "categoria": "Muebles",
+    "precio": 143265.6,
+    "stock": 3,
+    "especificaciones": {
+      "renclinable": false,
+      "alto": "90 cm",
+      "ancho": "150 cm",
+      "profundidadOLargo": "211 cm"
+    }
+  },
+  {
+    "_id": "68d5ef347371685a175d6752",
+    "nombre": "Tablet Lenovo",
+    "categoria": "Tecnologia",
+    "precio": 379800,
+    "stock": 20,
+    "especificaciones": {
+      "procesador": "MediaTek Helio G88(2,00 GHz)",
+      "memoria": "8GB",
+      "almacenamiento": "128GB"
+    }
+  },
+  {
+    "_id": "68d5ef347371685a175d6753",
+    "nombre": "Celular Galaxy A56 5G",
+    "categoria": "Tecnologia",
+    "precio": 899999.1,
+    "stock": 18,
+    "especificaciones": {
+      "procesador": "Octa-Core 2.9GHz,2.6GHz,1.9G Hz",
+      "memoria": "256GB",
+      "almacenamiento": "256GB"
+    }
+  },
+  {
+    "_id": "68d5ef347371685a175d6754",
+    "nombre": "Pc Gamer Noxi",
+    "categoria": "Tecnologia",
+    "precio": 583272.9,
+    "stock": 18,
+    "especificaciones": {
+      "procesador": "AMD 5700G",
+      "memoria": "32 GB",
+      "almacenamiento": "1 TB"
+    }
+  },
+  {
+    "_id": "68d5ef347371685a175d6755",
+    "nombre": "Home Theater Equipo Musica Bluetooth Inalambrico Noga Spark",
+    "categoria": "Tecnologia",
+    "precio": 86804.1,
+    "stock": 14,
+    "especificaciones": {
+      "conectividad": "Bluetooth"
+    }
+  },
+  {
+    "_id": "68d5ef347371685a175d6756",
+    "nombre": "Playstation 5 Slim Digital 1tb",
+    "categoria": "Tecnologia",
+    "precio": 583272.9,
+    "stock": 18,
+    "especificaciones": {
+      "procesador": "CPU(Amd ryzen),GPU(AMD Radeon)",
+      "memoria": "1 TB",
+      "almacenamiento": "1 TB"
+    }
+  },
+  {
+    "_id": "68d5ef347371685a175d6757",
+    "nombre": "Bicicleta Alpina 2.0 Pro Acero",
+    "categoria": "Ciclismo",
+    "precio": 225539.1,
+    "stock": 4,
+    "especificaciones": {
+      "rodado": 29,
+      "paraAdultos": true,
+      "tipoBicicleta": "Mountain bike",
+      "pesoMax": "115 kg"
+    }
+  },
+  {
+    "_id": "68d5ef347371685a175d6758",
+    "nombre": "Bicicleta Infantil Dencar",
+    "categoria": "Ciclismo",
+    "precio": 211860,
+    "stock": 3,
+    "especificaciones": {
+      "rodado": 16,
+      "paraAdultos": false,
+      "tipoBicicleta": "Paseo",
+      "pesoMax": "27.8 kg"
+    }
+  },
+  {
+    "_id": "68d5ef347371685a175d6759",
+    "nombre": "Bicicleta infantil Nathor",
+    "categoria": "Ciclismo",
+    "precio": 71190,
+    "stock": 2,
+    "especificaciones": {
+      "rodado": 12,
+      "paraAdultos": false,
+      "tipoBicicleta": "Paseo",
+      "pesoMax": "21kg"
+    }
+  },
+  {
+    "_id": "68d5ef347371685a175d675a",
+    "nombre": "Bicimoto Playera",
+    "categoria": "Ciclismo",
+    "precio": 612000,
+    "stock": 4,
+    "especificaciones": {
+      "rodado": 29,
+      "paraAdultos": true,
+      "tipoBicicleta": "A PEDAL",
+      "pesoMax": "120 kg"
+    }
+  },
+  {
+    "_id": "68d5ef347371685a175d675b",
+    "nombre": "Bicicleta Vintage Dama Con Cambios",
+    "categoria": "Ciclismo",
+    "precio": 324900,
+    "stock": 4,
+    "especificaciones": {
+      "rodado": 26,
+      "paraAdultos": true,
+      "tipoBicicleta": "De Paseo Con Cambios",
+      "pesoMax": "120 kg"
+    }
+  },
+  {
+    "_id": "68d5ef347371685a175d675c",
+    "nombre": "Taladro Electrico Bosch",
+    "categoria": "Herramientas",
+    "precio": 107100,
+    "stock": 4,
+    "especificaciones": {
+      "inalámbrico": false,
+      "marca": "Bosch",
+      "modelo": "GSB 13 RE"
+    }
+  },
+  {
+    "_id": "68d5ef347371685a175d675d",
+    "nombre": "Taladro Electrico Omaha",
+    "categoria": "Herramientas",
+    "precio": 42030,
+    "stock": 6,
+    "especificaciones": {
+      "inalámbrico": false,
+      "marca": "Omaha",
+      "modelo": "PIDEWEB"
+    }
+  },
+  {
+    "_id": "68d5ef347371685a175d675e",
+    "nombre": "Soplador Aspirador De Hojas VÖHLER VHSP700P",
+    "categoria": "Herramientas",
+    "precio": 43060.5,
+    "stock": 5,
+    "especificaciones": {
+      "inalámbrico": true,
+      "marca": "VÖHLER",
+      "modelo": "VHSP700P"
+    }
+  },
+  {
+    "_id": "68d5ef347371685a175d675f",
+    "nombre": "Soplador Aspirador De Hojas VÖHLER VHCO42K",
+    "categoria": "Herramientas",
+    "precio": 185310,
+    "stock": 5,
+    "especificaciones": {
+      "inalámbrico": true,
+      "marca": "VÖHLER",
+      "modelo": "VHCO42K"
+    }
+  },
+  {
+    "_id": "68d5ef347371685a175d6760",
+    "nombre": "Cortadora De Césped Total",
+    "categoria": "Herramientas",
+    "precio": 629370,
+    "stock": 5,
+    "especificaciones": {
+      "inalámbrico": true,
+      "marca": "Total",
+      "modelo": "TGT141181"
+    }
+  },
+  {
+    "_id": "68d5ef347371685a175d6761",
+    "nombre": "Cama Elástica Trampolin Shine",
+    "categoria": "Bebes&Niños",
+    "precio": 450000,
+    "stock": 5,
+    "especificaciones": {
+      "paraBebes": false,
+      "marca": "Shine",
+      "modelo": "SDT-1003HI"
+    }
+  },
+  {
+    "_id": "68d5ef347371685a175d6762",
+    "nombre": "Practicuna Colecho Mu B612",
+    "categoria": "Bebes&Niños",
+    "precio": 90000,
+    "stock": 7,
+    "especificaciones": {
+      "paraBebes": true,
+      "marca": "Mu",
+      "modelo": "B612"
+    }
+  },
+  {
+    "_id": "68d5ef347371685a175d6763",
+    "nombre": "Practicuna Colecho Mu K8",
+    "categoria": "Bebes&Niños",
+    "precio": 108000,
+    "stock": 11,
+    "especificaciones": {
+      "paraBebes": true,
+      "marca": "Mu",
+      "modelo": "K8"
+    }
+  },
+  {
+    "_id": "68d5ef347371685a175d6764",
+    "nombre": "Piso de Goma Eva Letras PGE-ABC",
+    "categoria": "Bebes&Niños",
+    "precio": 58725,
+    "stock": 7,
+    "especificaciones": {
+      "paraBebes": false,
+      "marca": "Rooby",
+      "modelo": ""
+    }
+  },
+  {
+    "_id": "68d5ef347371685a175d6765",
+    "nombre": "Cuatriciclo a Batería Stark",
+    "categoria": "Bebes&Niños",
+    "precio": 76500,
+    "stock": 9,
+    "especificaciones": {
+      "paraBebes": false,
+      "marca": "Stark",
+      "modelo": "Cuatriciclo"
+    }
+  },
+  {
+    "_id": "68d5f3ac0f017f87bf735189",
+    "nombre": "Notebook Lenovo",
+    "categoria": "Tecnologia",
+    "precio": 792000,
+    "stock": 20,
+    "especificaciones": {
+      "procesador": "Intel i5",
+      "memoria": "16GB",
+      "almacenamiento": "512GB SSD"
+    }
+  },
+  {
+    "_id": "68d6831fb968a80a6517661e",
+    "nombre": "Sillon Reclinable Relax",
+    "categoria": "Muebles",
+    "precio": 588780,
+    "stock": 4,
+    "especificaciones": {
+      "renclinable": true,
+      "alto": "110 cm",
+      "ancho": "95 cm",
+      "profundidadOLargo": "95 cm"
+    }
+  },
+  {
+    "_id": "68d6831fb968a80a6517661f",
+    "nombre": "Silla de Oficina Masajeador",
+    "categoria": "Muebles",
+    "precio": 151740,
+    "stock": 8,
+    "especificaciones": {
+      "renclinable": true,
+      "alto": "120 cm",
+      "ancho": "63 cm",
+      "profundidadOLargo": "68 cm"
+    }
+  },
+  {
+    "_id": "68d6831fb968a80a65176620",
+    "nombre": "Bicicleta Infantil ",
+    "categoria": "Ciclismo",
+    "precio": 69210,
+    "stock": 2,
+    "especificaciones": {
+      "rodado": 12,
+      "paraAdultos": false,
+      "tipoBicicleta": "Urbana",
+      "pesoMax": "21 kg"
+    }
+  },
+  {
+    "_id": "68d6831fb968a80a65176621",
+    "nombre": "Bicicleta Modelo Urbana de Paseo Volkswagen",
+    "categoria": "Ciclismo",
+    "precio": 825210,
+    "stock": 3,
+    "especificaciones": {
+      "rodado": 28,
+      "paraAdultos": true,
+      "tipoBicicleta": "Urbana",
+      "pesoMax": "118 kg"
+    }
+  },
+  {
+    "_id": "68d6831fb968a80a65176622",
+    "nombre": "Estación de Soldado con display Digital",
+    "categoria": "Herramientas",
+    "precio": 112500,
+    "stock": 6,
+    "especificaciones": {
+      "inalámbrico": false,
+      "marca": "Yihua",
+      "modelo": "878d"
+    }
+  },
+  {
+    "_id": "68d6831fb968a80a65176623",
+    "nombre": "Amoladora Angular Inalambrica ",
+    "categoria": "Herramientas",
+    "precio": 162090,
+    "stock": 5,
+    "especificaciones": {
+      "inalámbrico": true,
+      "marca": "Salkor",
+      "modelo": "BAAP11500"
+    }
+  },
+  {
+    "_id": "68d6831fb968a80a65176624",
+    "nombre": "Konig kids",
+    "categoria": "Bebes&Niños",
+    "precio": 54000,
+    "stock": 7,
+    "especificaciones": {
+      "paraBebes": true,
+      "marca": "Fravega",
+      "modelo": "Rosa"
+    }
+  },
+  {
+    "_id": "68d6831fb968a80a65176625",
+    "nombre": "Auto a Bateria F1",
+    "categoria": "Bebes&Niños",
+    "precio": 441000,
+    "stock": 9,
+    "especificaciones": {
+      "paraBebes": false,
+      "marca": "Love",
+      "modelo": "3080"
+    }
+  }
+]
